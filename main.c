@@ -27,7 +27,7 @@ int main(int argc, char const *argv[])
 		}
 		else
 		{
-			printf("Votre nombre n'est pas entre 1 et 100.\n");
+			printf("Votre nombre n'est pas entre 1 et 100.\n");// Ligne qui prévient l'utilisateur de ne pas prendre un numéro inferieur à 0 ou superieur à 100.
 		}
 	}
 	return 0;
